@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/boikago-moatswi-12351643"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Cybersecurity Enthusiast | CTF Player | Lifelong Learner with over 16 years of experience in IT. I hold a Bachelor's degree in Information Technology from Bond University and certifications in Microsoft Server 2012 and Microsoft Certified Azure Fundamentals
+Cybersecurity Enthusiast | CTF Player | Lifelong Learner with over 17 years of experience in IT. I hold a Bachelor's degree in Information Technology from Bond University and certifications in Microsoft Server 2012 and Microsoft Certified Azure Fundamentals
 
 I'm building my cybersecurity skills through hands-on labs, CTFs, and personal projects.
 
