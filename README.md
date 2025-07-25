@@ -82,8 +82,6 @@ Skills & Tools
   <img src="https://img.shields.io/badge/-Autopsy-003366?&style=for-the-badge&logo=autopsy&logoColor=white" />
   <img src="https://img.shields.io/badge/-HxD-004080?&style=for-the-badge&logoColor=white" />
  
-  
-
 
 
 </div>
