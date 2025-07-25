@@ -77,7 +77,7 @@ Skills & Tools
 <img src="https://img.shields.io/badge/-CyberChef-FF6F00?&style=for-the-badge&logo=cyberchef&logoColor=white" />
 </div>
 
-### Advanced Endpoint Investigations
+### 🛠️ Advanced Endpoint Investigation Tools
 <div>
   <img src="https://img.shields.io/badge/-Autopsy-003366?&style=for-the-badge&logo=autopsy&logoColor=white" />
   <img src="https://img.shields.io/badge/-HxD-004080?&style=for-the-badge&logoColor=white" />
