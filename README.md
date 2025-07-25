@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/boikago-moatswi-12351643"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Cybersecurity Enthusiast | CTF Player | Lifelong Learner with over 17 years of experience in IT. I hold a Bachelor's degree in Information Technology from Bond University and certifications in Microsoft Server 2012 and Microsoft Certified Azure Fundamentals
+Cybersecurity Enthusiast | CTF Player | Lifelong Learner with over 17 years of experience in IT. I hold a Bachelor's degree in Information Technology from Bond University and certifications in Microsoft Server 2012, Microsoft Certified Azure Fundamentals and ITIL Foundation in IT Service Management
 
 I'm building my cybersecurity skills through hands-on labs, CTFs, and personal projects.
 
@@ -100,6 +100,8 @@ Skills & Tools
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%20Server%202012-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure%20Fundamentals-007FFF?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL%20Foundation%20Certificate%20in%20IT%20Service%20Management-0078D6?&style=for-the-badge&logo=itil&logoColor=white" />
+
 </div>
 
 
