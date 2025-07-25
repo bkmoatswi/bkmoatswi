@@ -11,10 +11,10 @@ I'm building my cybersecurity skills through hands-on labs, CTFs, and personal p
 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
-## Skills
+## Skills and Tools
 
                                         
-Skills & Tools
+#### Skills 
 - Networking | Linux | Windows | Bash | Python
 - Nmap | Wireshark | Burp Suite | Metasploit | Procmon | Regshot 
 
@@ -28,7 +28,7 @@ Skills & Tools
   <img src="https://img.shields.io/badge/-malware--traffic--analysis.net-0F9D58?&style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </div>
 
-## Tools
+## Tools (Hands-on Experience)
 
 <div>
 
@@ -92,6 +92,12 @@ Skills & Tools
  
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 
+</div>
+
+### 🧰  SIEM & Log Management
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  
 </div>
 
 ## Certifications
