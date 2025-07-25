@@ -16,7 +16,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
                                         
 Skills & Tools
 - Networking | Linux | Windows | Bash | Python
-- Nmap | Wireshark | Burp Suite | Metasploit | Procmon |Regshot 
+- Nmap | Wireshark | Burp Suite | Metasploit | Procmon | Regshot 
 
   
 ### 🎓 Cybersecurity Learning Platforms
