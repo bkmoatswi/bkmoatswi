@@ -81,7 +81,7 @@ Skills & Tools
 <div>
   <img src="https://img.shields.io/badge/-Autopsy-003366?&style=for-the-badge&logo=autopsy&logoColor=white" />
   <img src="https://img.shields.io/badge/-HxD-004080?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FTK_Imager‑v4.7.3.81‑blue?style=for-the-badge&logo=FTK Imager&logoColor=white" />
+  <img src="https://img.shields.io/badge/FTK_Imager‑v4.7.3.81‑blue?&style=for-the-badge&logo=FTK Imager&logoColor=white" />
 
 
 </div>
